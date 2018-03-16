@@ -9,7 +9,7 @@ STS 또는 Eclipse에 import하는 방법:
   File >> Import... >> Git > Projects from Git >> Clone URI >> fork된 URI 입력(ex.https://github.com/계정명/JPetStore.git)
 
 
-참고:
+Git 사용법:
   https://backlog.com/git-tutorial/kr/,
   https://nolboo.kim/blog/2013/10/06/github-for-beginner/ 및 링크된 문서들, 
   http://itmir.tistory.com/461, 
