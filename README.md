@@ -10,7 +10,7 @@ STS 또는 Eclipse에 import하는 방법:
 
 
 참고:
-  https://backlog.com/git-tutorial/kr/ 
-  http://slowalk.tistory.com/2470 및 링크된 다른 문서들,
-  http://itmir.tistory.com/461,
+  https://backlog.com/git-tutorial/kr/,
+  http://slowalk.tistory.com/2470 및 링크된 다른 문서들, 
+  http://itmir.tistory.com/461, 
   http://jwgye.tistory.com/38?category=689862 
