@@ -11,6 +11,6 @@ STS 또는 Eclipse에 import하는 방법:
 
 참고:
   https://backlog.com/git-tutorial/kr/,
-  http://slowalk.tistory.com/2470 및 링크된 다른 문서들, 
+  https://nolboo.kim/blog/2013/10/06/github-for-beginner/ 및 링크된 문서들, 
   http://itmir.tistory.com/461, 
-  http://jwgye.tistory.com/38?category=689862 
+  http://jwgye.tistory.com/38?category=689862, 그밖의 온라인 자료들
